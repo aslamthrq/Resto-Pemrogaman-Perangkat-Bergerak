@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "237079372780",
+    "project_id": "restoaslam-ecbd1",
+    "storage_bucket": "restoaslam-ecbd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237079372780:android:d9db07da38e473d0be16c9",
+        "android_client_info": {
+          "package_name": "com.example.restoaslam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237079372780-np3nq9k5pt10076hofb958l70q2tjj2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_jHUXlDX5CxOSytw7nAY7qX38zMddSzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237079372780-np3nq9k5pt10076hofb958l70q2tjj2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
